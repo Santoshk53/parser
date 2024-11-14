@@ -1,1 +1,1 @@
-Chrome plugin to parse title and description of a website.
+Chrome plugin to parse meta-title and meta-description of a website.
